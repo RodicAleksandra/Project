@@ -1,0 +1,6 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e85bfbd6462ec71711458fc797b965ce/tran
+# Project exclude paths
+/.gradle/
